@@ -1,2 +1,3 @@
 # Codeforces
-Programming algorithms
+
+Solutions to Competitive Programming Algorithms website Codeforces
