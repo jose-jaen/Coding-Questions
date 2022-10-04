@@ -1,5 +1,3 @@
-
-
 x = input()
      
 if x[0].islower() and x[1:len(x)].isupper():
@@ -10,4 +8,3 @@ elif len(x) == 1 and x.islower():
     x = x.upper()
      
 print(x)
-
