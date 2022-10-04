@@ -1,5 +1,3 @@
-
-
 n = int(input())
      
 vec = [int(i) for i in input().split()]
@@ -14,4 +12,3 @@ if len(even) >= len(odd):
 else:
     res = [i for i in vec if i % 2 == 0]
     print(vec.index(res[0]) + 1)
-
