@@ -1,5 +1,3 @@
-
-
 n = int(input())
      
 word = input()
@@ -9,4 +7,3 @@ upper = set([j.lower() for j in word if j.isupper()])
 unique = [s for s in lower if s not in upper]
      
 print('YES') if len(unique) + len(upper) == 26 else print('NO')
-
