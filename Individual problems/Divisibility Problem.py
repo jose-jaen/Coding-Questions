@@ -1,5 +1,3 @@
-
-
 t = int(input())
      
 for i in range(t):
@@ -11,4 +9,3 @@ for i in range(t):
         print(b-a)
     else:
         print(b - a%b)
-
