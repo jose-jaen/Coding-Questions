@@ -1,5 +1,3 @@
-
-
 t = int(input())
 
 for i in range(t):
@@ -15,4 +13,3 @@ for i in range(t):
         else:
             continue
     print(sum(a))
-
