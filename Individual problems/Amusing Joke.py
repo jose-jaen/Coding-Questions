@@ -1,5 +1,3 @@
-
-
 guest = [i for i in input()]
 host = [i for i in input()]
 pile = [i for i in input()]
@@ -14,4 +12,3 @@ res.sort()
 guest.sort()
      
 print('YES') if res == guest else print('NO')
-
