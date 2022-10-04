@@ -1,5 +1,3 @@
-
-
 n = int(input())
      
 cont = 0
@@ -16,4 +14,3 @@ while n >= 1:
             i += 1
                 
 print(cont)
-
