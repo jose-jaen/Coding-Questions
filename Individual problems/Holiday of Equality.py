@@ -1,5 +1,3 @@
-
-
 n = int(input())
      
 welfare = [int(i) for i in input().split()]
