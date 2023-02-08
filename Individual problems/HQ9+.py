@@ -8,5 +8,4 @@ for i in program:
     elif i in vec and '+' in vec:
         cont +=1
         
-
 print('YES') if cont > 0 else print('NO')
